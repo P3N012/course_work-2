@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/switch.elf"
+firmware = "build/switch.bin"

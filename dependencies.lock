@@ -1,0 +1,17 @@
+dependencies:
+  abobija/rc522:
+    dependencies: []
+    source:
+      path: components/abobija__rc522
+      type: local
+    version: 4.0.1
+  idf:
+    source:
+      type: idf
+    version: 6.0.2
+direct_dependencies:
+- abobija/rc522
+- idf
+manifest_hash: ecedc35e417f1b4c7a2185c783cbd815e2e14b0108e5ec7b063023d7c3307327
+target: esp32
+version: 3.0.0
